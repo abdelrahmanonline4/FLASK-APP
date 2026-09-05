@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: flask-container
-        image: 3booda24/flask123-app:latest
+        image: 3booda24/flask123456-app:latest
         ports:
         - containerPort: 5000
